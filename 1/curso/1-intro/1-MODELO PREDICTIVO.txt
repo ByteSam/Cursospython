@@ -1,0 +1,14 @@
+Dentro de Machine learning o Aprendizaje automatico:
+la humanidad genera mucha informacion = 2,5 exabytes (1exabyte =10^18)
+-algoritmos supervisados ( conoce los datos de entrada y salida)y no supervisados
+ (datos de entrada y desconoce los de salida). etc (regresion lineal)
+-crea ecuacion matematica basado en datos historicos.
+-como repartir los datos(80% y 20) de entranamiento y validacion (crush validation).
+-modelos elabora una funcion matematica con restrincciones. (ejmplos regresion lineal o logistica)
+-resolver un problema que tenga una empresa (maximizar ventas, predecir la tasa de crimen, predecir el ratio de fallo, modelizar el ratio de perdida de compradores de un e-commerce).
+Se usa:
+bancos					SANIDAD
+redes sociales				EDUCACION
+compra/venta				SEGURIDAD
+transporte				VIAJE Y LOGISTICA
+recursos humanos			E-COMMERCE

@@ -1,0 +1,10 @@
+agregar el nombre de pestaña del archivo .xls 
+titanic2 = pd.read_excel(mainpath + "/" + filename, "titanic3")
+
+data.tall(8) : te muestra los ultimos 8 datos del final
+
+data.shape : te muestra el tamaño de filas y columnas 
+
+data.describe() : resumen de los estadisticos basicos de las variables numericas
+
+pd.isnull(data ["body"]).values.ravel().sum : se suman los 1 (los trues)

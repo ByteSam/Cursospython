@@ -1,0 +1,11 @@
+ETAPA 1:
+Enmarcar el problema (hacer las preguntas adecuadas) -----¿Cual es el objetivo de la empresa? ¿Que queremos estimar o predecir?
+ETAPA 2:
+Adquirir y preparar los datos----------------¿Que recursos tenemos para obtener datos?¿Que informacion es relevante? Limpiar y finltrar los datos para su posterior analisis.
+ETAPA 3:
+Explorar los datos-----Visualizar los datos- Localizar en los graficos posibles tendencias-Evaluar Modelo.
+ETAPA 4: 
+Modelizar y evaluar los datos------Utilizar algun algoritmo innovador(segun el problema) 
+para crear el modelo -Evaluar el modelo.
+ETAPA 5:
+Comunicar los resultados y/o puesta en produccion-------¿Que resultados hemos optenido?¿Que hemos aprendido?¿Los resultados tienen sentido?

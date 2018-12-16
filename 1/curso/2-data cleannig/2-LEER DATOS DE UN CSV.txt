@@ -1,0 +1,24 @@
+-alt+ enter= ejecutar linea de codigo
+-se puede combinar codigo de python con html
+-leer la descripcion para entender el contexto.
+-pd.read_csv("../datasets/titanic/titanic3.csv") // para cargar nuestro data set
+PARAMETROS PARA READ.CSV():
+-read.csv(filepath = "/Users/Daniel/Desktop/datascientist/titanic", sep = ",", dtype = None) // anota toda la direc, delimitador que por defecto es la coma(spacio,@,tab,barras verticales), 
+
+-data = pd.read_csv("../datasets/titanic/titanic3.csv") 
+se puede cambiar por 
+
+data = pd.read_csv(fullpath)
+agregando
+mainpath = "/Users/Daniel/Desktop/datascientist/IPython/datasets"
+filename = "titanic/titanic.csv"
+fullpath = mainpath + "/" + filename
+
+import os (sistema operativo)
+fullpath = os.path.join(mainpath, fullpath)
+
+
+data.head() // para ver nuestro dataset cargada en la IDE.
+
+
+

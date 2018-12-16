@@ -1,0 +1,5 @@
+datos vienen en fichero csv , txt.
+pueden venir separados por puntos comas.
+puede estar en la nube.
+Obtener el fichero-> cargar en la IDE-> obtener informacion basica para empezar el tratamiento(dimension, nom colun, espacios, opcion de eliminar del dataset, cambiar el tipo de variable ) arreglar el fichero para trabajar.
+despues UNA FORMA DE VIZUALIZARLO ES ATRAVES DE PLOTS (HISTOGRAMA, VARCHAR... Graficos).

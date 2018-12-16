@@ -1,0 +1,35 @@
+r = solo para leer
+rw= lectura y escritura
+w = para escritura pero borra la informacion anterior
+a = para escribir al final de la linea
+
+metodo next(): navegar para la sgt posicion de memoria de la sgt linea
+metodo strip(): elimina espacio blanco al inicio y final de la linea
+metodo split(): dividir la linea de texto por un delimitador o fragmento
+metodo readline(): leer toda la linea de string
+
+cols = data3.readline().strip().split()
+para columnas :   	n_cols = len (cols)
+
+pero para filas :
+counter = 0
+main_dict = {}
+for col in cols:
+    main_dict[col]= []
+mostrarlo y ver que se agrego para luego
+for line in data3:
+    values = line.strip().split(",")    // atento con el limitador aveces no es coma
+    for i in range (len(cols)):
+        main_dict[cols[i]].append(values[i])
+    counter += 1
+print ("el data set tiene %d filas y %d columnas "%(counter, n_cols))
+
+
+
+para que este separado por un barra t y no por coma
+with open (infile, "r") as infile1:
+    with open (outfile, "w")as outfile1:
+        for line in infile1 :
+            filds = line.strip().split(",")
+            outfile1.write("/t".join(filds))
+

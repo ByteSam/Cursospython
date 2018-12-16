@@ -1,0 +1,14 @@
+IMPORT PANDAS: 
+facilita el poder leer un dataset en formato util(data frame) que usa python,r estudio,etc.Tambien permite calcular estadisticos basicos (prom, desvi tipicos, varianzas) por ultimo operaciones basicos de data set(concatener , suboconjuntos de data frame).
+IMPORT Numpy: 
+equivale a matlab pero en python tiene metodos para hacer calculos matematicos y simulaciones. Utilizar arrays n dimencional , tambien traer funciones matematicas, matricez, transformadas de furier.
+por ultimo combinacion de generaciones de numeros aleatorios.
+IMPORT matplotlib: 
+ayuda con los representaciones graficas( histogramas , nube de dispercion, caja de bijote, etc). tambien funciones basicoas del plot.
+IMPORT IPython: 
+entorno para hacer calculos interactivos- es un IDE que soporta codigo , plots, resumenes , implantacion de modelos (nootebooks).(herramienta web).(jupyter nucleo fundamental en el que se construye el nootebook).
+IMPORT scikit-learn :
+libreria para hacer analisis predictivo. DIferentes metodos. Esta basado de los primeros paquetes pandas, numpy, matplotlib. Nos da un metodo para predecir el valor de salidas basado en el de partida(si el modelo esta bien o mal construuido).
+IDES: 
+SPYDER , IDLE, IPhyton Notebook.
+
